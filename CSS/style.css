@@ -1,0 +1,56 @@
+.bg-light{
+    background-color: #9a3a60 !important;
+    border-bottom: 2px solid burlywood;
+}
+
+.search-box
+{
+width: 50vw;
+}
+
+.navbar-nav {
+    margin-right: 19vw;
+}
+
+.navbar-brand img {
+    height: 12vh;
+    width: 14vw;
+}
+
+.nav-item.active a.nav-link {
+    color:gray !important;
+    border-bottom: 1px solid burlywood;
+}
+
+.nav-item a.nav-link:hover {
+    color:gray !important;
+    border-bottom: 1px solid burlywood;
+}
+
+.about-movie-text{
+color: grey;
+font-size: 12px;
+}
+
+footer
+{
+    background-color: darkslategray;
+    color: #fff !important;
+}
+
+footer a
+{
+    color: #fff;
+    text-decoration: none;
+}
+
+footer a i
+{
+    height: 20px;
+    width: 20px;
+}
+
+.footer-social-img {
+    height: 7vh;
+    width: 6vw;
+}
